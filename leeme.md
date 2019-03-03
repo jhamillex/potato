@@ -11,3 +11,4 @@ creditos
 -----------------
     *jhamillex
     *el vergas
+    *el max estuvo aqui
