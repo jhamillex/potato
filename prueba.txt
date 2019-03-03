@@ -1,0 +1,29 @@
+//comandos para poder utilizar git
+//dirigirse al folder 
+cd .\"nombre del directorio"
+//bajar de nvel 
+cd ..
+//iniciamos git
+git init
+//ver el estado de los cambios
+git status
+//guardar cambios globales
+git add .
+//realizar comentarios
+git commit -m "comentario"
+//listar comit de una rama
+git log
+//mustra la interfaz grafica de git
+gitk
+//borrar todo lo del panel
+clear
+//crear una rama
+git checkout -b v1.1
+//listar ramas
+git branch
+//visualizar las diferencias
+//subir los cambios al github
+git remote add origin https://github.com/jhamillex/"nombre de repositorio".git
+git push -u origin master
+
+
